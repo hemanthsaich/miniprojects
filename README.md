@@ -1,4 +1,4 @@
-# Python Scripts Collection
+# Python Mini Projects Collection
 
 A collection of Python scripts for various tasks and utilities. Each script is designed to perform a specific function, enhancing your productivity and making your daily tasks easier.
 

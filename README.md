@@ -74,4 +74,36 @@ A collection of Python scripts for various tasks and utilities. Each script is d
 
 ### 18. Send Emails in Bulk From CSV File.py
 
-- **Description:** Send emails to multiple recipients from a
+- **Description:** Send emails to multiple recipients from a CSV file.
+
+### 19. Snapshot of The Given Website.py
+
+- **Description:** Capture a snapshot of a specified website.
+
+### 20. Split Files Into Chunks.py
+
+- **Description:** Split large files into smaller chunks.
+
+### 21. String search from multiple files.py
+
+- **Description:** Search for a specific string in multiple files.
+
+### 22. Terminal Progress Bar.py
+
+- **Description:** Display a progress bar in the terminal.
+
+### 23. Text To Speech.py
+
+- **Description:** Convert text to speech.
+
+### 24. Web Scrapping Youtube Comment.py
+
+- **Description:** Scrape comments from YouTube videos.
+
+### 25. Wifi Password Ejector.py
+
+- **Description:** Retrieve and display connected WiFi passwords.
+
+## Usage
+
+Each script has its own usage instructions provided in its respective file. Please refer to the individual script files for more information.
